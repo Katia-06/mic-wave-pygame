@@ -1,5 +1,5 @@
-from pygame import *   
-import sounddevice as sd 
+import sounddevice as sd
+from pygame import * 
 
 # === Налаштування ===
 fs = 44100     # Частота дискретизації (кількість вимірів за секунду)
